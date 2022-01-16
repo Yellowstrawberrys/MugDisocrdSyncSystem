@@ -1,0 +1,8 @@
+name: Asdfdasfadsf
+version: 0.0.1
+main: cf.thdisstudio.asdfdasfadsf.Asdfdasfadsf
+authors: [ Yellowstrawberry, ThdisStudio ]
+description: Minecraft User Group Plugin
+commands:
+  인증:
+    description: 인증기능
